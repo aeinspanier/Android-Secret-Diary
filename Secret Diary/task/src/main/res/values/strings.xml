@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Secret Diary</string>
+    <string name="diary_hint">Dear Diary...</string>
+    <string name="save_entry">Save</string>
+    <string name="undo_entry">Undo</string>
+    <string name="login">Log In</string>
+</resources>
